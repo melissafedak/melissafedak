@@ -18,7 +18,7 @@ Here are the tools, languages, and frameworks I work with most often:
 - **Dev Tools**: Git, Docker, GitHub, and whatever keeps the pipeline green!
 
 
-## 😄 Pronouns
+## 👱‍♀️ Pronouns
 
 she/her
 
