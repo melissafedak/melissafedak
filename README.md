@@ -27,6 +27,7 @@ she/her
 
 - I've been to 30 countries (and counting) and lived in India and Japan
 - I am a certified mindfulness facilitator
+- I donated my left kidney to a stranger
 - I went skydiving once...
 
 <!--
